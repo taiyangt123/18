@@ -2576,7 +2576,7 @@
 			"type": 0,
 			"key": "无尽资源2(切)",
 			"name": "无尽资源2(切)",
-			"api": "https://wuzy9.com/api.php/provide/vod/at/xml/
+			"api": "https://wuzy9.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
