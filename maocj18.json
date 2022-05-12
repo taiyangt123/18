@@ -2647,7 +2647,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "一帆资源(VPN)(优)",
 			"name": "一帆资源(VPN)(优)",
 			"api": "http://api.if101.tv/v1/vod?ac=list",
@@ -2657,7 +2657,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "唐人资源(优)",
 			"name": "唐人资源(优)",
 			"api": "https://tangrenzyz.com/api.php/provide/vod/at/xml/",
@@ -2670,7 +2670,7 @@
 
 			"key": "789盘(优)",
 			"name": "789盘(优)",
-			"type": 0,
+			"type": 1,
 			"api": "https://www.rrvipw.com/api.php/provide/vod/from/789pan/",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -2678,7 +2678,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "喵派对蓝光(优)",
 			"name": "喵派对蓝光(优)",
 			"api": "http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod/at/xml/",
@@ -2688,7 +2688,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "酷扑(人人迷)(优)",
 			"name": "酷扑(人人迷)(优)",
 			"api": "https://www.kupu.cc/api.php/provide/vod/at/xml/",
@@ -2698,7 +2698,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "旋风云(优)",
 			"name": "旋风云(优)",
 			"api": "http://appimg.ssxmall.cn/api.php/provide/vod/at/xml/",
@@ -2709,7 +2709,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "影世界(优)",
 			"name": "影世界(优)",
 			"api": "https://vtypeeo.yingworld.vip/api.php/provide/vod/at/xml/",
@@ -2719,7 +2719,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "饭后电影(优)",
 			"name": "饭后电影(优)",
 			"api": "http://yinliub.cn/api.php/provide/vod/at/xml/",
@@ -2729,7 +2729,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "考拉TV(优)",
 			"name": "考拉TV(优)",
 			"api": "https://ikaola.tv/api.php/provide/vod/at/xml/",
@@ -2740,7 +2740,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "荔枝影视(优)",
 			"name": "荔枝影视(优)",
 			"api": "http://www.zjys.vip/api.php/provide/vod/at/xml/",
@@ -2750,7 +2750,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "段友影视(优)",
 			"name": "段友影视(优)",
 			"api": "http://shangjihuoke.com/api.php/provide/vod/at/xml/",
@@ -2760,7 +2760,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "一点影视(优)",
 			"name": "一点影视(优)",
 			"api": "https://m3u8.movurl.xyz/api.php/provide/vod/at/xml/",
@@ -2770,7 +2770,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "51看剧(优)",
 			"name": "51看剧(优)",
 			"api": "http://51kanju.cn/api.php/provide/vod/at/xml/",
@@ -2780,7 +2780,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "每天看看(优)",
 			"name": "每天看看(优)",
 			"api": "http://47.113.126.237:1234/api.php/provide/vod/at/xml/",
@@ -2791,7 +2791,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "一拳动漫(优)",
 			"name": "一拳动漫(优)",
 			"api": "http://47.97.68.224/api.php/provide/vod/at/xml/",
@@ -2801,7 +2801,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "饭团影视(优)",
 			"name": "饭团影视(优)",
 			"api": "http://television.wkfile.com/api.php/provide/vod/at/xml/",
@@ -2811,7 +2811,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "乐活影视(优)",
 			"name": "乐活影视(优)",
 			"api": "https://lehootv.com/api.php/provide/vod/at/xml/",
@@ -2821,7 +2821,7 @@
 			"categories": []
 		},
 		{
-			"type": 0,
+			"type": 1,
 			"key": "筋斗云(优)",
 			"name": "筋斗云(优)",
 			"api": "https://tv.jindcloud.com/api.php/provide/vod/at/xml/",
